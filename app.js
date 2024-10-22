@@ -15,7 +15,7 @@ app.use(express.static('public'));
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password:'makemelaugh13.',
+    password:'#your sql password',
     database: 'churchDB'
 });
 
